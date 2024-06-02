@@ -94,7 +94,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+Lw7KNE83tckyM2Fl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+fyzPk0nbAhRjNDg1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+WSZ2At2H7ehiOGZl')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', 'Kʏᴀ ʀᴇ Bʜɪᴋᴍᴀɴɢᴀ 😑,Kʏᴀ ᴅᴇᴋʜ ʀᴀʜᴀ ʜᴀɪ ?')
+MSG_ALRT = environ.get('MSG_ALRT', 'Kʏᴀ ʀᴇ bahi 😑,Kʏᴀ ᴅᴇᴋʜ ʀᴀʜᴀ ʜᴀɪ ?')
 
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002013393941'))
 VERIFY_REQ_CHNL = int(environ.get('VERIFY_REQ_CHNL', '-1002013393941'))
